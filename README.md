@@ -1,2 +1,2 @@
-# ClimaEApp
+# ClimeApp
 The classic Clime App
